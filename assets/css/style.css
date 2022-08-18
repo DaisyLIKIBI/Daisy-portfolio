@@ -20,7 +20,7 @@
    * colors
    */
 
-  --raw-seinna: hsl(24, 74%, 58%);
+  --raw-seinna: #F9BBC4;
   --sizzling-sunrise: hsl(51, 95%, 54%);
   --scarlet: hsl(13, 96%, 47%);
   --black: hsl(0, 0%, 0%);
@@ -76,8 +76,8 @@
 
 body.dark_theme {
 
-  --bg-primary: hsl(253, 87%, 33%);
-  --bg-secondary: hsl(262, 93%, 22%);
+  --bg-primary: #0097FE;
+  --bg-secondary: #0097FE;
   --color-primary: hsl(0, 0%, 100%);
   --color-secondary: hsl(318, 97%, 13%);
   --card-shadow: hsla(0, 0%, 0%, 0.4);
