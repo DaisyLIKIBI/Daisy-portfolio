@@ -7,7 +7,9 @@
  */
 
 
+ @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@700&display=swap');
 
+.marker { font-size: large; font-family: 'Nunito', sans-serif; text-shadow: 1px 1px 2px rgb(0, 0, 0);}
 
 
 /*-----------------------------------*\
@@ -480,7 +482,10 @@ main { overflow-x: hidden; }
 
 :is(.hero-social-list, .scroll-down) { display: none; }
 
-.hero-content { max-width: 450px; }
+.hero-content { max-width: 450px; text-align: center;}
+
+
+.hero .hero-content h1 { display: flex; color: white; }
 
 .hero-title {
   text-align: center;
